@@ -1,0 +1,46 @@
+Anastasia Reister
+Nathaniel Reister
+4-5-2021
+
+Meeting 1
+
+What are we building!?!?!
+
+
+--Model--
+	-Stage one one page to list all the recipes.
+	-a recipe is a entry in a table
+	-each recipe is an object with the following properties
+		-Name
+		-Date
+		-Image
+		-Ingredients
+		-Steps
+		-Booleans for traits such as Vegetarianvegan, gluten free
+		-Categories
+		-Difficulty
+	
+	-ingredient database
+		-a lookup reltionship the recipe model
+
+--Iterations--
+	
+	1) Four pages
+		-List of all recipes in the db
+		-Entry form to add a recipe
+		-Detail Page/Recipe Page
+		-Edit Page
+		-scafold on CRUD 
+
+--Sprints--
+	-Each sprint must compelete a usable increment at the conclusion of each sprint
+
+
+--Road Map -- aka features
+
+	-Be able to tell what dishs can be cooked based on waht you have on hand
+	-When purchasing from a grocery store reciepts can be upload to app to add all purchase to what you have on hand
+	-How to patent
+	-Weights to volume calculator
+	-add individual user logins
+	-trending recipes similar to user rating
