@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natha\\source\\repos\\Cookaboo\\Cookaboo\\Cookaboo.csproj": {}
+    "C:\\Users\\natha\\Documents\\GitHub\\Cook-Book\\Code\\Cookaboo\\Cookaboo\\Cookaboo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natha\\source\\repos\\Cookaboo\\Cookaboo\\Cookaboo.csproj": {
+    "C:\\Users\\natha\\Documents\\GitHub\\Cook-Book\\Code\\Cookaboo\\Cookaboo\\Cookaboo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natha\\source\\repos\\Cookaboo\\Cookaboo\\Cookaboo.csproj",
+        "projectUniqueName": "C:\\Users\\natha\\Documents\\GitHub\\Cook-Book\\Code\\Cookaboo\\Cookaboo\\Cookaboo.csproj",
         "projectName": "Cookaboo",
-        "projectPath": "C:\\Users\\natha\\source\\repos\\Cookaboo\\Cookaboo\\Cookaboo.csproj",
+        "projectPath": "C:\\Users\\natha\\Documents\\GitHub\\Cook-Book\\Code\\Cookaboo\\Cookaboo\\Cookaboo.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natha\\source\\repos\\Cookaboo\\Cookaboo\\obj\\",
+        "outputPath": "C:\\Users\\natha\\Documents\\GitHub\\Cook-Book\\Code\\Cookaboo\\Cookaboo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
